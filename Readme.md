@@ -1,4 +1,4 @@
-## udemy-git course
+## udemy-Introduction to git and githup course
 ### First Assigiment
-Name:Israa Shahin
-Note: Excited
+* Name:Israa Shahin
+* Note: Excited
